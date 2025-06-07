@@ -1,0 +1,29 @@
+h1 {
+padding: 10px;
+margin: 10px;
+border: 3px solid white;
+text-align: center;
+font-size: 25px;
+}
+
+h2 {
+
+padding: 10px;
+margin: 10px;
+text-align: center;
+font-size: 25px;
+}
+
+
+p {
+font-size: 20px;
+}
+
+ul {
+font-size: 25px;
+color: white;
+}
+
+img:hover {
+	-webkit-transform: rotate(1080deg);
+	transition:all .5s;
